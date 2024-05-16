@@ -1,0 +1,43 @@
+* {
+    margin:0px;
+    padding: 0px;
+}
+
+
+section {
+    background-color: grey;
+    height: 50vh;
+    width: 100vw;
+    text-align: center;
+}
+
+.section-center {
+    width: 90vw;
+    margin: 0 auto;
+}
+
+.section_body {
+    padding-top: 150px;
+}
+
+h1, p {
+    font-size: 30px;
+    color: white;
+}
+
+h1{
+
+    text-transform: uppercase;
+}
+
+.section_underline {
+    border-top: solid 5px red;
+    width: 50px;
+    margin: 0px auto;
+
+}
+
+p { 
+    padding-top: 100px;
+    text-transform: capitalize;
+}

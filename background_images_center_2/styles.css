@@ -1,0 +1,53 @@
+* {
+    margin:0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+
+.nav {
+    height: 10vh;
+    width: 100vw;
+    background-color: black;
+    padding-top: 30px;
+    
+}
+
+.nav-center {
+    width: 80vw;
+    margin: 0px auto;
+}
+
+.nav-title {
+    color: white;
+    text-transform: uppercase;    
+    font-size: 40px;
+    
+}
+
+.hero {
+    width: 100vw;
+    margin: 0 auto;
+    height: calc(100vh - 10vh);
+    background-color: red;
+    max-width: 100vw;
+}
+
+h2 {
+    font-size: 50px;
+    
+}
+
+p {
+    max-width: 300px;
+    text-align: right;
+}
+
+.btn {
+    margin-top: 50px;
+    background-color: white;
+    text-transform: uppercase;
+    
+}
+
+

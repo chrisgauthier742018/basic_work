@@ -1,0 +1,22 @@
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body { 
+    background-color: rgb(126, 126, 245);
+    color: #fff;
+    text-align: center;
+    min-width: 10vw;
+}
+
+
+h1 { 
+    font-size: 100px;
+    margin-bottom: 100px;
+}
+p { 
+    margin-bottom: 50px;
+    max-width: 100vw;
+}
