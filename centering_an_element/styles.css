@@ -1,0 +1,13 @@
+
+.container {
+    width: 100vw;
+    height: 100vh;
+    border: 2px solid red;
+    margin: 0px auto;    
+}
+
+img {
+    height: 300px;
+    width: 300px;
+    margin: 100px auto;
+}
