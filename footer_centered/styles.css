@@ -1,0 +1,17 @@
+* {
+    margin:0px;
+    padding: 0px;
+    
+}
+
+
+footer {
+    background-color: black;
+    width: 100vw;
+    color: white;
+}
+
+.center {
+    text-align: left;
+    
+}
