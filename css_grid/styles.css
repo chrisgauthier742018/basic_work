@@ -1,0 +1,39 @@
+* {
+    padding:0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+.container {
+    background-color: grey;
+    display: grid;
+    grid-template-columns: 100px 500px;
+    grid-template-rows:  200px 200px;
+    
+
+}
+
+.cell {
+    border: 1px solid red;
+    font-weight: bold;
+}
+
+.grid_container {
+    display:grid;
+    grid-template-columns: 200px 200px 200px;
+    grid-template-rows: 200px;
+}
+
+.video1 {
+    background: red;
+}
+    
+
+.imageone {
+    background: blue;
+}
+    
+.video2 {
+    background: green;
+}
+    
